@@ -1,0 +1,387 @@
+Error Log Created at 2023-02-28 11:54:02am
+DB Name : test_everfresh
+TableName :lab_inward_product_table
+Query : '36','','dsadsda','2023-02-28','subaash@cloudzoo.in','2023-02-28','subaash@cloudzoo.in'
+
+Message : Syntax Issue in lab-ctrl
+.............................................................................
+
+
+Error Log Created at 2023-02-28 11:54:29am
+DB Name : test_everfresh
+TableName :lab_inward_product_table
+Query : '37','','dsadsda','2023-02-28','subaash@cloudzoo.in','2023-02-28','subaash@cloudzoo.in'
+
+Message : Syntax Issue in lab-ctrl
+.............................................................................
+
+
+Error Log Created at 2023-02-28 12:00:06pm
+DB Name : test_everfresh
+TableName :lab_inward_product_table
+Query : '38','','dsadsda','2023-02-28','subaash@cloudzoo.in','2023-02-28','subaash@cloudzoo.in'
+
+Message : Syntax Issue in lab-ctrl
+.............................................................................
+
+
+Error Log Created at 2023-02-28 12:00:54pm
+DB Name : test_everfresh
+TableName :lab_inward_product_table
+Query : '39','','dsadsda','2023-02-28','subaash@cloudzoo.in','2023-02-28','subaash@cloudzoo.in'
+
+Message : Syntax Issue in lab-ctrl
+.............................................................................
+
+
+Error Log Created at 2023-02-28 12:01:40pm
+DB Name : test_everfresh
+TableName :lab_inward_product_table
+Query : '40','','dsadsda','2023-02-28','subaash@cloudzoo.in','2023-02-28','subaash@cloudzoo.in'
+
+Message : Syntax Issue in lab-ctrl
+.............................................................................
+
+
+Error Log Created at 2023-02-28 12:15:30pm
+DB Name : test_everfresh
+TableName :lab_inward_product_table
+Query : '41','','dsadsda','2023-02-28','subaash@cloudzoo.in','2023-02-28','subaash@cloudzoo.in'
+
+Message : Syntax Issue in lab-ctrl
+.............................................................................
+
+
+Error Log Created at 2023-02-28 12:21:05pm
+DB Name : test_everfresh
+TableName :lab_inward_product_table
+Query : '42','dsadsda','dsadsda','2023-02-28','subaash@cloudzoo.in','2023-02-28','subaash@cloudzoo.in'
+
+Message : Syntax Issue in lab-ctrl
+.............................................................................
+
+
+Error Log Created at 2023-02-28 12:21:39pm
+DB Name : test_everfresh
+TableName :lab_inward_product_table
+Query : '43','sdfs','132','2023-02-28','subaash@cloudzoo.in','2023-02-28','subaash@cloudzoo.in'
+
+Message : Syntax Issue in lab-ctrl
+.............................................................................
+
+
+Error Log Created at 2023-02-28 12:40:20pm
+DB Name : test_everfresh
+TableName :lab_inward_product_table
+Query : '44','dsadsda','465','2023-02-28','subaash@cloudzoo.in','2023-02-28','subaash@cloudzoo.in'
+
+Message : Syntax Issue in inward-ctrl
+.............................................................................
+
+
+Error Log Created at 2023-02-28 12:40:20pm
+DB Name : test_everfresh
+TableName :lab_inward_product_table
+Query : '44','sdfddf','465','2023-02-28','subaash@cloudzoo.in','2023-02-28','subaash@cloudzoo.in'
+
+Message : Syntax Issue in inward-ctrl
+.............................................................................
+
+
+Error Log Created at 2023-02-28 12:41:44pm
+DB Name : test_everfresh
+TableName :lab_inward_product_table
+Query : '45','dsadsda','132','2023-02-28','subaash@cloudzoo.in','2023-02-28','subaash@cloudzoo.in'
+
+Message : Syntax Issue in inward-ctrl
+.............................................................................
+
+
+Error Log Created at 2023-02-28 12:41:44pm
+DB Name : test_everfresh
+TableName :lab_inward_product_table
+Query : '45','sdfddf','768','2023-02-28','subaash@cloudzoo.in','2023-02-28','subaash@cloudzoo.in'
+
+Message : Syntax Issue in inward-ctrl
+.............................................................................
+
+
+Error Log Created at 2023-02-28 12:41:44pm
+DB Name : test_everfresh
+TableName :lab_inward_product_table
+Query : '45','sdf','456','2023-02-28','subaash@cloudzoo.in','2023-02-28','subaash@cloudzoo.in'
+
+Message : Syntax Issue in inward-ctrl
+.............................................................................
+
+
+Error Log Created at 2023-02-28 12:41:44pm
+DB Name : test_everfresh
+TableName :lab_inward_product_table
+Query : '45','sdf','132','2023-02-28','subaash@cloudzoo.in','2023-02-28','subaash@cloudzoo.in'
+
+Message : Syntax Issue in inward-ctrl
+.............................................................................
+
+
+Error Log Created at 2023-03-01 08:57:53am
+DB Name : test_everfresh
+TableName :lab_inward_product_table
+Query : '46','dsadsda','465','2023-03-01','subaash@cloudzoo.in','2023-03-01','subaash@cloudzoo.in'
+
+Message : Syntax Issue in inward-ctrl
+.............................................................................
+
+
+Error Log Created at 2023-03-01 08:57:54am
+DB Name : test_everfresh
+TableName :lab_inward_product_table
+Query : '46','sdfddf','123','2023-03-01','subaash@cloudzoo.in','2023-03-01','subaash@cloudzoo.in'
+
+Message : Syntax Issue in inward-ctrl
+.............................................................................
+
+
+Error Log Created at 2023-03-01 01:51:48pm
+DB Name : test_everfresh
+TableName :lab_inward_product_table
+Query : '47','dsadsda','2','2023-03-01','me','2023-03-01','me'
+
+Message : Syntax Issue in inward-ctrl
+.............................................................................
+
+
+Error Log Created at 2023-03-01 01:51:49pm
+DB Name : test_everfresh
+TableName :lab_inward_product_table
+Query : '47','2','2','2023-03-01','me','2023-03-01','me'
+
+Message : Syntax Issue in inward-ctrl
+.............................................................................
+
+
+Error Log Created at 2023-03-01 01:52:21pm
+DB Name : test_everfresh
+TableName :lab_inward_product_table
+Query : '48','dsadsda','465','2023-03-01','me','2023-03-01','me'
+
+Message : Syntax Issue in inward-ctrl
+.............................................................................
+
+
+Error Log Created at 2024-05-20 01:18:45pm
+DB Name : zoy_erp_new
+TableName :size_table
+Query : INSERT INTO size_table (product_name,size,sort_order,created_on,created_by)VALUES('22','','2024-05-20','subaash@cloudzoo.in');
+
+Message : Column count doesn't match value count at row 1
+.............................................................................
+
+
+Error Log Created at 2024-05-20 01:20:05pm
+DB Name : zoy_erp_new
+TableName :size_table
+Query : INSERT INTO size_table (product_name,size,sort_order,created_on,created_by)VALUES('22','','2024-05-20','subaash@cloudzoo.in');
+
+Message : Column count doesn't match value count at row 1
+.............................................................................
+
+
+Error Log Created at 2024-05-20 01:20:30pm
+DB Name : zoy_erp_new
+TableName :size_table
+Query : INSERT INTO size_table (product_name,size,sort_order,created_on,created_by)VALUES('22','','2024-05-20','subaash@cloudzoo.in');
+
+Message : Column count doesn't match value count at row 1
+.............................................................................
+
+
+Error Log Created at 2024-05-20 01:58:42pm
+DB Name : zoy_erp_new
+TableName :product_table_ecom
+Query : INSERT INTO product_table_ecom (sku,product_type,category,sub_category,super_sub_category,brand_name,product_name,stock,unit,tax_type,selling_price,purchase_price,mrp,supplier_name,colour,size,barcode,pack_stock,product_description,rack_details,image1_url,min_stock,part_no_01,part_no_02,part_no_03,discount_percentage,offer_name,whole_sale_price,opening_stock,ext_file_1,ext_file_2,ext_file_3,ext_file_4,ext_file_5,ext_file_6,faq,sub_save_1,sub_save_2,sub_save_3,meta_tag,weight,product_card,flow,ext_file_hover,ext_file_banner_1,ext_file_banner_2,ext_file_banner_3,ext_file_banner_4,ext_file_banner_5,ext_file_7,ext_file_8,ext_file_9,ext_file_10,product_display_name)VALUES('NAVY WITH METALLIC BLUE T-SHIRT (DOUBLE NECK)','','T-SHIRT','navy-blue double neck','','PAP-AND-FAB','A-10-NAVY WITH METALLIC BLUE T-SHIRT','100','','0','170','170','170','','','24','','0','','','','100','','','','0','','0','0','jpg','','','','','','','0','0','0','','0','','','jpg','','','','','','','','','','A-10-NAVY WITH METALLIC BLUE T-SHIRT (DOUBLE NECK)');
+
+Message : Duplicate entry 'NAVY WITH METALLIC BLUE T-SHIRT (DOUBLE NECK)' for key 'PRIMARY'
+.............................................................................
+
+
+Error Log Created at 2024-05-20 02:01:09pm
+DB Name : zoy_erp_new
+TableName :product_table_ecom
+Query : INSERT INTO product_table_ecom (sku,product_type,category,sub_category,super_sub_category,brand_name,product_name,stock,unit,tax_type,selling_price,purchase_price,mrp,supplier_name,colour,size,barcode,pack_stock,product_description,rack_details,image1_url,min_stock,part_no_01,part_no_02,part_no_03,discount_percentage,offer_name,whole_sale_price,opening_stock,ext_file_1,ext_file_2,ext_file_3,ext_file_4,ext_file_5,ext_file_6,faq,sub_save_1,sub_save_2,sub_save_3,meta_tag,weight,product_card,flow,ext_file_hover,ext_file_banner_1,ext_file_banner_2,ext_file_banner_3,ext_file_banner_4,ext_file_banner_5,ext_file_7,ext_file_8,ext_file_9,ext_file_10,product_display_name)VALUES('NAVY WITH METALLIC BLUE T-SHIRT (DOUBLE NECK)','','T-SHIRT','navy-blue double neck','','PAP-AND-FAB','A-10-NAVY WITH METALLIC BLUE T-SHIRT','100','','0','170','170','0','','','24','','0','','','','100','','','','0','','0','0','jpg','','','','','','','0','0','0','','0','','','jpg','','','','','','','','','','A-10-NAVY WITH METALLIC BLUE T-SHIRT  (DOUBLE NECK)');
+
+Message : Duplicate entry 'NAVY WITH METALLIC BLUE T-SHIRT (DOUBLE NECK)' for key 'PRIMARY'
+.............................................................................
+
+
+Error Log Created at 2024-05-20 02:02:25pm
+DB Name : zoy_erp_new
+TableName :product_table_ecom
+Query : INSERT INTO product_table_ecom (sku,product_type,category,sub_category,super_sub_category,brand_name,product_name,stock,unit,tax_type,selling_price,purchase_price,mrp,supplier_name,colour,size,barcode,pack_stock,product_description,rack_details,image1_url,min_stock,part_no_01,part_no_02,part_no_03,discount_percentage,offer_name,whole_sale_price,opening_stock,ext_file_1,ext_file_2,ext_file_3,ext_file_4,ext_file_5,ext_file_6,faq,sub_save_1,sub_save_2,sub_save_3,meta_tag,weight,product_card,flow,ext_file_hover,ext_file_banner_1,ext_file_banner_2,ext_file_banner_3,ext_file_banner_4,ext_file_banner_5,ext_file_7,ext_file_8,ext_file_9,ext_file_10,product_display_name)VALUES('NAVY WITH METALLIC BLUE T-SHIRT (DOUBLE NECK)','','','','','','','0','','0','0','0','0','','','','','0','','','','0','','','','0','','0','0','','','','','','','','0','0','0','','0','','','','','','','','','','','','','');
+
+Message : Duplicate entry 'NAVY WITH METALLIC BLUE T-SHIRT (DOUBLE NECK)' for key 'PRIMARY'
+.............................................................................
+
+
+Error Log Created at 2024-05-21 01:04:49pm
+DB Name : zoy_erp_new
+TableName :ecom_size_chart_master
+Query : INSERT INTO ecom_size_chart_master (size_chart_name,describition,attach_file,created_on,created_by,last_updated_on,last_updated_by)VALUES('T-SHIRT','','jpg','2024-05-21','subaash@cloudzoo.in','2024-05-21','');
+
+Message : Field 'tid' doesn't have a default value
+.............................................................................
+
+
+Error Log Created at 2024-05-21 01:08:24pm
+DB Name : zoy_erp_new
+TableName :ecom_size_chart_master
+Query : INSERT INTO ecom_size_chart_master (size_chart_name,describition,attach_file,created_on,created_by,last_updated_on,last_updated_by)VALUES('t','','jpg','2024-05-21','subaash@cloudzoo.in','2024-05-21','');
+
+Message : Field 'tid' doesn't have a default value
+.............................................................................
+
+
+Error Log Created at 2024-05-21 01:10:22pm
+DB Name : zoy_erp_new
+TableName :ecom_size_chart_master
+Query : INSERT INTO ecom_size_chart_master (size_chart_name,describition,attach_file,created_on,created_by,last_updated_on,last_updated_by)VALUES('t','','jpg','2024-05-21','subaash@cloudzoo.in','2024-05-21','');
+
+Message : Field 'tid' doesn't have a default value
+.............................................................................
+
+
+Error Log Created at 2024-05-21 01:10:33pm
+DB Name : zoy_erp_new
+TableName :ecom_size_chart_master
+Query : INSERT INTO ecom_size_chart_master (size_chart_name,describition,attach_file,created_on,created_by,last_updated_on,last_updated_by)VALUES('t','','jpg','2024-05-21','subaash@cloudzoo.in','2024-05-21','');
+
+Message : Field 'tid' doesn't have a default value
+.............................................................................
+
+
+Error Log Created at 2024-05-21 01:12:14pm
+DB Name : zoy_erp_new
+TableName :ecom_size_chart_master
+Query : INSERT INTO ecom_size_chart_master (tid,size_chart_name,describition,attach_file,created_on,created_by,last_updated_on,last_updated_by)VALUES('','dfh','','jpg','2024-05-21','subaash@cloudzoo.in','2024-05-21','');
+
+Message : Incorrect integer value: '' for column 'tid' at row 1
+.............................................................................
+
+
+Error Log Created at 2024-05-21 01:13:49pm
+DB Name : zoy_erp_new
+TableName :ecom_size_chart_master
+Query : INSERT INTO ecom_size_chart_master (size_chart_name,describition,attach_file,created_on,created_by,last_updated_on,last_updated_by)VALUES('t-shirt','','jpg','2024-05-21','subaash@cloudzoo.in','2024-05-21','');
+
+Message : Field 'tid' doesn't have a default value
+.............................................................................
+
+
+Error Log Created at 2024-05-21 01:22:53pm
+DB Name : zoy_erp_new
+TableName :ecom_size_chart_master
+Query : INSERT INTO ecom_size_chart_master (size_chart_name,describition,attach_file,created_on,created_by,last_updated_on,last_updated_by)VALUES('t','','jpg','2024-05-21','subaash@cloudzoo.in','2024-05-21','');
+
+Message : Field 'tid' doesn't have a default value
+.............................................................................
+
+
+Error Log Created at 2024-05-21 01:23:45pm
+DB Name : zoy_erp_new
+TableName :ecom_size_chart_master
+Query : INSERT INTO ecom_size_chart_master (tid,size_chart_name,describition,attach_file,created_on,created_by,last_updated_on,last_updated_by)VALUES('','t','','jpg','2024-05-21','subaash@cloudzoo.in','2024-05-21','');
+
+Message : Incorrect integer value: '' for column 'tid' at row 1
+.............................................................................
+
+
+Error Log Created at 2024-05-21 07:05:47pm
+DB Name : zoy_erp_new
+TableName :product_table_ecom
+Query : INSERT INTO product_table_ecom (sku,product_type,category,sub_category,super_sub_category,brand_name,product_name,stock,unit,tax_type,selling_price,purchase_price,mrp,supplier_name,colour,size,barcode,pack_stock,product_description,rack_details,image1_url,min_stock,part_no_01,part_no_02,part_no_03,discount_percentage,offer_name,whole_sale_price,opening_stock,ext_file_1,ext_file_2,ext_file_3,ext_file_4,ext_file_5,ext_file_6,faq,sub_save_1,sub_save_2,sub_save_3,meta_tag,weight,product_card,flow,ext_file_hover,ext_file_banner_1,ext_file_banner_2,ext_file_banner_3,ext_file_banner_4,ext_file_banner_5,ext_file_7,ext_file_8,ext_file_9,ext_file_10,product_display_name)VALUES('RED WITH BABY PINK T-SHIRT (DOUBLE NECK)','','T-SHIRT','RED WITH BABY PINK T-SHIRT (DOUBLE NECK)','','PAP-AND-FAB','A-7 RED WITH BABY PINK T-SHIRT DOUBLE NECK','100','','0','210','210','210','','','34','','0','','','','100','','','','0','','0','0','jpg','','','','','','','0','0','0','','0','','','jpg','','','','','','','','','','A-7 RED WITH BABY PINK T-SHIRT (DOUBLE NECK)');
+
+Message : Duplicate entry 'RED WITH BABY PINK T-SHIRT (DOUBLE NECK)' for key 'PRIMARY'
+.............................................................................
+
+
+Error Log Created at 2024-05-28 03:52:14pm
+DB Name : zoy_erp_new
+TableName :size_table
+Query : INSERT INTO size_table (product_name,size,sort_order,created_on,created_by)VALUES('7_Days_Week_Name_Baby_Kids Room_Learning_Education_School_Big_Banyan_Tree','110 X 120','','2024-05-28','subaash@cloudzoo.in');
+
+Message : Data too long for column 'product_name' at row 1
+.............................................................................
+
+
+Error Log Created at 2024-05-28 03:52:46pm
+DB Name : zoy_erp_new
+TableName :size_table
+Query : INSERT INTO size_table (product_name,size,sort_order,created_on,created_by)VALUES('7_Days_Week_Name_Baby_Kids Room_Learning_Education_School_Big_Banyan_Tree','110 X 120','','2024-05-28','subaash@cloudzoo.in');
+
+Message : Data too long for column 'product_name' at row 1
+.............................................................................
+
+
+Error Log Created at 2024-05-28 06:09:28pm
+DB Name : zoy_erp_new
+TableName :size_table
+Query : INSERT INTO size_table (product_name,size,sort_order,created_on,created_by)VALUES(' Cute_Height_Measurement_Play_School_Nursery_WS036','110 X 140','','2024-05-28','subaash@cloudzoo.in');
+
+Message : Data too long for column 'product_name' at row 1
+.............................................................................
+
+
+Error Log Created at 2024-05-28 06:10:30pm
+DB Name : zoy_erp_new
+TableName :size_table
+Query : INSERT INTO size_table (product_name,size,sort_order,created_on,created_by)VALUES('Cute_Height_Measurement_Play_School_Nursery_WS036','110 X 140','','2024-05-28','subaash@cloudzoo.in');
+
+Message : Data too long for column 'product_name' at row 1
+.............................................................................
+
+
+Error Log Created at 2024-05-28 06:12:43pm
+DB Name : zoy_erp_new
+TableName :size_table
+Query : INSERT INTO size_table (product_name,size,sort_order,created_on,created_by)VALUES('Cute_Height_Measurement_Play_School_Nursery_WS036','110 X 140','','2024-05-28','subaash@cloudzoo.in');
+
+Message : Data too long for column 'product_name' at row 1
+.............................................................................
+
+
+Error Log Created at 2024-05-28 06:14:40pm
+DB Name : zoy_erp_new
+TableName :size_table
+Query : INSERT INTO size_table (product_name,size,sort_order,created_on,created_by)VALUES('Cute_Height_Measurement_Play_School_Nursery_WS036','110 X 140','','2024-05-28','subaash@cloudzoo.in');
+
+Message : Data too long for column 'product_name' at row 1
+.............................................................................
+
+
+Error Log Created at 2024-05-28 06:15:38pm
+DB Name : zoy_erp_new
+TableName :size_table
+Query : INSERT INTO size_table (product_name,size,sort_order,created_on,created_by)VALUES('Cute_Height_Measurement_Play_School_Nursery_WS036','110 X 140','','2024-05-28','subaash@cloudzoo.in');
+
+Message : Data too long for column 'product_name' at row 1
+.............................................................................
+
+
+Error Log Created at 2024-05-28 06:17:09pm
+DB Name : zoy_erp_new
+TableName :size_table
+Query : INSERT INTO size_table (product_name,size,sort_order,created_on,created_by)VALUES('Cute_Height_Measurement_Play_School_Nursery_WS036','110 X 140','','2024-05-28','subaash@cloudzoo.in');
+
+Message : Data too long for column 'product_name' at row 1
+.............................................................................
+
+
+Error Log Created at 2024-05-30 05:29:11pm
+DB Name : miss_18
+TableName :product_table_ecom
+Query : INSERT INTO product_table_ecom (sku,product_type,category,sub_category,super_sub_category,brand_name,product_name,stock,unit,tax_type,selling_price,purchase_price,mrp,supplier_name,colour,size,barcode,pack_stock,product_description,rack_details,image1_url,min_stock,part_no_01,part_no_02,part_no_03,discount_percentage,offer_name,whole_sale_price,opening_stock,ext_file_1,ext_file_2,ext_file_3,ext_file_4,ext_file_5,ext_file_6,faq,sub_save_1,sub_save_2,sub_save_3,meta_tag,weight,product_card,flow,ext_file_hover,ext_file_banner_1,ext_file_banner_2,ext_file_banner_3,ext_file_banner_4,ext_file_banner_5,ext_file_banner_1_mob,ext_file_banner_2_mob,ext_file_banner_3_mob,ext_file_banner_4_mob,ext_file_banner_5_mob,ext_file_7,ext_file_8,ext_file_9,ext_file_10,product_display_name,meta_description)VALUES('black_full_length_12','','Full Lenght','','','Miss_18','Black_full_length_12','2000','','0','5000','5000','6999','','','M','','0','','','','500','','','','0','','0','0','JPG','','','','','','','0','0','0','','0','','','JPG','','','','','','','','','','','','','','','Black Full Length','');
+
+Message : Unknown column 'ext_file_banner_1_mob' in 'field list'
+.............................................................................
+
+

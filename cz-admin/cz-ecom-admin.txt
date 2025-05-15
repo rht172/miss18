@@ -1,0 +1,197 @@
+1. Create a Folder cz-admin
+2. Create a Empty Theme File { Dashboard,Login, api + Folder}
+3. Use cz_ecom db 
+4. List of Tables to be Created
+
+1. category_table 
+    tid
+    category
+    other_details
+    attachment_extenion { Only PNG/Jpg}
+
+2. sub_category_table
+    tid
+    category
+    sub_category
+    other_details
+    attachment_extenion { Only PNG/Jpg}
+
+3. super_sub_category_table
+    tid
+    category
+    sub_category
+    super_sub_category
+    other_details
+    attachment_extenion { Only PNG/Jpg}
+
+4. brand_table 
+    tid
+    brand
+    other_details
+    attachment_extenion { Only PNG/Jpg}
+
+{ all the above Table has attachment_extenion { Only PNG/Jpg}}
+
+5. hsn_table ( no Need of attachments)
+    tid
+    hsn 
+    tax_percentage
+    other_details
+
+product_table
+    tid
+    sku
+    product_display_name
+    style_name
+    category 
+    sub_category 
+    super_sub_category 
+    brand_name
+    hsn 
+    gst_percentage 
+    mrp
+    selling_price 
+    purchase_price 
+    stock 
+    rack 
+    part_number_01
+    part_number_02 
+    part_number_03 
+    other_details 
+    size 
+    colour 
+    product_describtion 
+    attachment_extenion { Only PNG/Jpg}
+    product_type { single/combo }
+    tags {text}
+
+    { Notes: Need 4 attachments , 1 Image - Thumb Images , 2,3,4 : Big Image location/ uploads/products/ tid-1 , tid-2}
+
+6.combo_table 
+    tid
+    combo_sku
+    child_sku
+    child_qty
+
+customer_table
+    
+coupons_table
+    tid
+    coupon_code {varchar}
+    discount_percentage 
+    other_details
+
+
+a. slider_table
+    tid
+    slider_headder {text}
+    slider_headder_2 {text}
+    slider_headder_3 {text}
+    slider_button_url {text}
+    attachment_extenion { Only PNG/Jpg}
+
+b. sub_slider_table
+    tid
+    slider_headder
+    slider_headder_2
+    slider_headder_3
+    slider_button_url
+    attachment_extenion { Only PNG/Jpg}
+
+c. featured_product_table
+    tid
+    sku 
+    other_details 
+
+d. top_selling_table
+    tid
+    sku 
+    other_details 
+
+e. parallax_table
+    tid
+    slider_headder
+    slider_headder_2
+    slider_headder_3
+    slider_button_url
+    attachment_extenion { Only PNG/Jpg}
+
+
+f. city_state_table
+    tid
+    state 
+    city 
+    unavailable_pincode
+
+
+
+
+
+
+
+
+order_main_table
+    tid
+    customer_id
+    order_date
+    other_details
+    
+order_product_table
+
+
+
+
+Sure, here's a basic example of how you might implement OTP verification via email using PHP:
+
+Generate OTP:
+Generate a random OTP using PHP's rand() function or a more secure method like random_int(). Store this OTP in your database along with the user's email and a timestamp.
+php
+Copy code
+$otp = random_int(100000, 999999); // Generate a 6-digit OTP
+// Store $otp, user's email, and timestamp in the database
+Sending Email:
+Use PHP's mail() function or a third-party library like PHPMailer to send an email containing the OTP to the user's email address.
+php
+Copy code
+$to = 'user@example.com';
+$subject = 'Your OTP for Verification';
+$message = 'Your OTP is: ' . $otp;
+$headers = 'From: your_email@example.com' . "\r\n" .
+    'Reply-To: your_email@example.com' . "\r\n" .
+    'X-Mailer: PHP/' . phpversion();
+
+mail($to, $subject, $message, $headers);
+User Interaction and Validation:
+Create a form on your frontend where the user can input the OTP they received via email. When the form is submitted, handle the validation on the server side.
+php
+Copy code
+$userEnteredOTP = $_POST['otp']; // OTP entered by the user
+
+// Retrieve the stored OTP and timestamp from the database based on user's email
+$storedOTP = ...; // Fetch from the database
+$timestamp = ...; // Fetch from the database
+
+// Validate the entered OTP
+if ($userEnteredOTP == $storedOTP && time() - $timestamp < 600) {
+    // OTP is valid and not expired (600 seconds = 10 minutes)
+    // Mark the email as verified in the database
+} else {
+    // OTP validation failed or expired
+}
+Feedback to User:
+Send a response back to the frontend indicating whether the OTP verification was successful or not. Display appropriate messages to the user.
+Remember that this is just a basic outline, and there are many security considerations and optimizations that need to be taken into account for a production environment. You should also consider using a third-party library for sending emails, as they often provide better security and more features than the built-in mail() function.
+
+
+
+
+
+
+
+
+
+
+tid,customer_id,order_date,order_status,order_type,order_payment_status,order_details,despatch_details,payment_details,shipping_fee,track_id,mode_of_payment
+
+tid,main_id_fk,product,qty,rate,amount,discount_percent,tax_percentage,total_amount,size,color
+fname,lname,street,city,state,pin_code,email,password,phone_number,country

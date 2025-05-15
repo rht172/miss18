@@ -1,0 +1,59 @@
+Default Page Create :
+<?php include '../../includes/validateSession.php'; ?>
+<?php include '../../includes/header.php'; ?>
+<div class="container-fluid">
+
+</div>
+<?php include '../../includes/footer.php'; ?>
+
+
+
+Select Data : -
+selectData($tempSelectFeilds, $tempWhereStatement)
+selectData_customqry($qry)
+selectDataAsJSON($tempSelectFeilds, $tempWhereStatement)
+selectDataAsJSONViaCustomQuery($tempquery)
+selectDataForAutoComplete($tempquery, $feildName)
+selectAllDataAsJSON($tempSelectFeilds, $Limit)
+
+
+Insert Data :- 
+insertData($tempFeilds, $tempValues)
+insertDatawithCustomQuery($query)
+insertDataWithReturnValue($tempFeilds, $tempValues)
+insertDataWithReturnValueWithoutEcho($tempFeilds, $tempValues)
+
+
+Update Data :-
+updateDatawithCustomQuery($query)
+updateData($tempFeildsAndValues, $tempWhereClause)
+updatefeedback($tempFeilds, $newValues, $tempWhereClause)
+updateDataWithoutEcho($tempFeildsAndValues, $tempWhereClause)
+
+
+Delete Data :- 
+deleteData($tempWhereClause)
+deleteDataWithoutEcho($tempWhereClause)
+
+My functions : -
+
+czGet($keyName)
+czGetForSQL($keyName)
+czPost($keyName)
+czPostForSQL($keyName)
+whereClasueQueryGenerator($feildName, $OperatorNameEqualOrLike, $valueData, $ExistingWhereQuery)
+whereClasueQueryGeneratorOR($feildName, $OperatorNameEqualOrLike, $valueData, $ExistingWhereQuery)
+FileUploadJPG($FileUploaderName, $imageName, $target_dir)
+uploadImageJpg($imageName, $target_dir)
+consoleLog($log)
+uploadImageJpg($imageName, $target_dir)
+processStingToDate($dateValueAsString)
+
+
+
+
+ALTER TABLE `cz_ecom`.`slider_table` 
+ADD COLUMN `bg_color` VARCHAR(45) NULL AFTER `ext_file`;
+
+ALTER TABLE `cz_ecom`.`customer_table` 
+ADD COLUMN `ext_file` VARCHAR(45) NULL AFTER `country`;

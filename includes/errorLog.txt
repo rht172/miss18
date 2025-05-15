@@ -1,0 +1,45 @@
+Error Log Created at 2024-05-29 12:55:23pm
+DB Name : zoy_erp_new
+TableName :ecom_order_product_table
+Query : INSERT INTO ecom_order_product_table (main_id_fk,product,qty,rate,amount,discount_percent,tax_percentage,total_amount,size,color)VALUES('28','A-4 YELLOW T-SHIRT (ROUND NECK)','1','','0','0','0','0','','');
+
+Message : Incorrect decimal value: '' for column 'rate' at row 1
+.............................................................................
+
+
+Error Log Created at 2024-05-29 12:55:23pm
+DB Name : zoy_erp_new
+TableName :ecom_order_product_table
+Query : INSERT INTO ecom_order_product_table (main_id_fk,product,qty,rate,amount,discount_percent,tax_percentage,total_amount,size,color)VALUES('28','A-6 BABY PINK T-SHIRT (ROUND NECK)','1','','0','0','0','0','','');
+
+Message : Incorrect decimal value: '' for column 'rate' at row 1
+.............................................................................
+
+
+Error Log Created at 2024-05-29 12:55:23pm
+DB Name : zoy_erp_new
+TableName :ecom_order_product_table
+Query : INSERT INTO ecom_order_product_table (main_id_fk,product,qty,rate,amount,discount_percent,tax_percentage,total_amount,size,color)VALUES('28','A-5 METALIC BLUE T-SHIRT (ROUND NECK)','1','','0','0','0','0','','');
+
+Message : Incorrect decimal value: '' for column 'rate' at row 1
+.............................................................................
+
+
+Error Log Created at 2024-06-04 11:05:42am
+DB Name : miss_18
+TableName :ecom_order_product_table
+Query : INSERT INTO ecom_order_product_table (main_id_fk,product,qty,rate,amount,discount_percent,tax_percentage,total_amount,size,color)VALUES('31','black_striped_top_43','1','','0','0','0','0','','');
+
+Message : Incorrect decimal value: '' for column 'rate' at row 1
+.............................................................................
+
+
+Error Log Created at 2024-06-04 11:05:55am
+DB Name : miss_18
+TableName :ecom_order_product_table
+Query : INSERT INTO ecom_order_product_table (main_id_fk,product,qty,rate,amount,discount_percent,tax_percentage,total_amount,size,color)VALUES('32','black_striped_top_43','1','','0','0','0','0','','');
+
+Message : Incorrect decimal value: '' for column 'rate' at row 1
+.............................................................................
+
+

@@ -1,0 +1,5 @@
+RewriteEngine On
+RewriteBase /
+
+# Rewrite product URLs
+RewriteRule ^product/([^/]+)$ product-page.php?sku=$1 [L]
